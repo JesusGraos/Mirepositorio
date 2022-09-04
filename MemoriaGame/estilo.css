@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+.col{
+    display: grid;
+    grid-template-columns: 150px;
+    grid-template-rows: 150px; 
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    background-color: #8892c6 ;
+    margin: 1rem;
+    border-radius: 10%;
+}
+.container{
+    font-size: xx-large;
+}
